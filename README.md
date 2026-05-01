@@ -23,7 +23,7 @@ Built with Python. No external libraries required.
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/caesar-cipher.git
+git clone https://github.com/Aledinne-Ha/caesar-cipher.git
 cd caesar-cipher
 
 # Run
